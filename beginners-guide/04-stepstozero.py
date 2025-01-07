@@ -31,7 +31,3 @@ class Solution:
             self.steps += 1
 
         return self.steps
-
-
-sol = Solution()
-print(sol.numberOfSteps(14))
