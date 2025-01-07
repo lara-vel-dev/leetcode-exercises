@@ -1,5 +1,3 @@
-from typing import List
-
 '''
 -- 1672. Richest Customer Wealth --
 
