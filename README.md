@@ -6,5 +6,5 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ## Exercises
 
-<a href="https://github.com/lara-vel-dev/leetcode-exercises/blob/main/beginners-guide/README.md">Beginners Guide</a>
-<a href="https://github.com/lara-vel-dev/leetcode-exercises/blob/main/easy-problems/README.md">Easy Problems</a>
+1. <a href="https://github.com/lara-vel-dev/leetcode-exercises/blob/main/beginners-guide/README.md">Beginners Guide</a>
+2. <a href="https://github.com/lara-vel-dev/leetcode-exercises/blob/main/easy-problems/README.md">Easy Problems</a>
