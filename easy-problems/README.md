@@ -9,5 +9,5 @@ Here you'll find:
 5. <a href="https://github.com/lara-vel-dev/leetcode-exercises/blob/main/easy-problems/05-commonprefix.py">Longest Common Prefix</a>
 6. <a href="https://github.com/lara-vel-dev/leetcode-exercises/blob/main/easy-problems/06-validparenthesis.py">Valid Parentheses</a>
 7. <a href="https://github.com/lara-vel-dev/leetcode-exercises/blob/main/easy-problems/07-mergelists.py">Merge Two Sorted Lists</a>
-8. <a href=""></a>
+8. <a href="https://github.com/lara-vel-dev/leetcode-exercises/blob/main/easy-problems/08-removeduplicates.py">Remove Duplicates from Sorted Array</a>
 <a href=""></a>
