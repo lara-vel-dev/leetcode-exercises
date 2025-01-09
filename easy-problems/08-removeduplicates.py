@@ -36,10 +36,11 @@ Constraints:
 
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
-        not_dup = []
-
-        for num in nums:
-            if num not in not_dup:
-                not_dup.append(num)
-
-        return len(not_dup)
+        p1 = 1
+        length_ = len(nums)
+    
+        for p2 in range(1, length_):
+            if nums[p2-1] != nums[p2]:
+                nums[p1] = nums[p2]
+                p1 += 1
+        return p1
