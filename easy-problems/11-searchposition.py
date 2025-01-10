@@ -25,7 +25,3 @@ class Solution:
             nums.sort()
 
         return nums.index(target)
-
-
-sol = Solution()
-print(sol.searchInsert([1, 3, 5, 6], 5))
