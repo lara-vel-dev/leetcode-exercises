@@ -24,7 +24,3 @@ class Solution:
     def lengthOfLastWord(self, s: str) -> int:
         last_word = s.strip().split(' ')
         return len(last_word[-1])
-
-
-sol = Solution()
-print(sol.lengthOfLastWord("   xd me caen bien todos los que estan aqui   "))
