@@ -11,4 +11,9 @@ Here you'll find:
 7. <a href="https://github.com/lara-vel-dev/leetcode-exercises/blob/main/easy-problems/07-mergelists.py">Merge Two Sorted Lists</a>
 8. <a href="https://github.com/lara-vel-dev/leetcode-exercises/blob/main/easy-problems/08-removeduplicates.py">Remove Duplicates from Sorted Array</a>
 9. <a href="https://github.com/lara-vel-dev/leetcode-exercises/blob/main/easy-problems/09-removeelements.py">Remove Element</a>
+10. <a href="https://github.com/lara-vel-dev/leetcode-exercises/blob/main/easy-problems/10-findindex.py">Find the Index of the First Occurrence in a String</a>
+<a href=""></a>
+<a href=""></a>
+<a href=""></a>
+<a href=""></a>
 <a href=""></a>
