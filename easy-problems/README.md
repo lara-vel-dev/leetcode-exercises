@@ -14,6 +14,6 @@ Here you'll find:
 10. <a href="https://github.com/lara-vel-dev/leetcode-exercises/blob/main/easy-problems/10-findindex.py">Find the Index of the First Occurrence in a String</a>
 11. <a href="https://github.com/lara-vel-dev/leetcode-exercises/blob/main/easy-problems/11-searchposition.py">Search Insert Position</a>
 12. <a href="https://github.com/lara-vel-dev/leetcode-exercises/blob/main/easy-problems/12-lengthlastword.py">Length of Last Word</a>
-<a href=""></a>
+13. <a href="https://github.com/lara-vel-dev/leetcode-exercises/blob/main/easy-problems/13-plusone.py">Plus One</a>
 <a href=""></a>
 <a href=""></a>
