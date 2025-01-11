@@ -12,7 +12,7 @@ Here you'll find:
 8. <a href="https://github.com/lara-vel-dev/leetcode-exercises/blob/main/easy-problems/08-removeduplicates.py">Remove Duplicates from Sorted Array</a>
 9. <a href="https://github.com/lara-vel-dev/leetcode-exercises/blob/main/easy-problems/09-removeelements.py">Remove Element</a>
 10. <a href="https://github.com/lara-vel-dev/leetcode-exercises/blob/main/easy-problems/10-findindex.py">Find the Index of the First Occurrence in a String</a>
-<a href=""></a>
+11. <a href="https://github.com/lara-vel-dev/leetcode-exercises/blob/main/easy-problems/11-searchposition.py">Search Insert Position</a>
 <a href=""></a>
 <a href=""></a>
 <a href=""></a>
