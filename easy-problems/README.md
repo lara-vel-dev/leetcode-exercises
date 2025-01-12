@@ -18,5 +18,5 @@ Here you'll find:
 14. <a href="https://github.com/lara-vel-dev/leetcode-exercises/blob/main/easy-problems/14-addbinary.py">Add Binary</a>
 15. <a href="https://github.com/lara-vel-dev/leetcode-exercises/blob/main/easy-problems/15-squareroot.py">Sqrt(x)</a>
 16. <a href="https://github.com/lara-vel-dev/leetcode-exercises/blob/main/easy-problems/16-climbsteps.py">Climbing Stairs</a>
-<a href=""></a>
+17. <a href="https://github.com/lara-vel-dev/leetcode-exercises/blob/main/easy-problems/17-removedduplicsorted.py">Remove Duplicates from Sorted List</a>
 <a href=""></a>
