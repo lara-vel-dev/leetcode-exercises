@@ -15,5 +15,7 @@ Here you'll find:
 11. <a href="https://github.com/lara-vel-dev/leetcode-exercises/blob/main/easy-problems/11-searchposition.py">Search Insert Position</a>
 12. <a href="https://github.com/lara-vel-dev/leetcode-exercises/blob/main/easy-problems/12-lengthlastword.py">Length of Last Word</a>
 13. <a href="https://github.com/lara-vel-dev/leetcode-exercises/blob/main/easy-problems/13-plusone.py">Plus One</a>
+14. <a href="https://github.com/lara-vel-dev/leetcode-exercises/blob/main/easy-problems/14-addbinary.py">Add Binary</a>
+<a href="https://github.com/lara-vel-dev/leetcode-exercises/blob/main/easy-problems/15-squareroot.py"></a>
 <a href=""></a>
 <a href=""></a>
